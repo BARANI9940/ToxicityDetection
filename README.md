@@ -1,4 +1,4 @@
-# ToxicityDetection
+# Toxicity Detection in Social Media
 
 Domain: Social Media Moderation 
 Scenario: Toxicity on social media is often subtle—users employ 
